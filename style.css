@@ -1,0 +1,45 @@
+.main {
+    background: blue;
+}
+
+.main:hover {
+    background: rgb(0, 0, 228);
+}
+
+.secondary {
+    background: gray;
+}
+
+.secondary:hover {
+    background: rgb(116, 116, 116);
+}
+
+.third {
+    background: black;
+}
+.third:hover {
+    background: rgb(44, 44, 44);
+}
+
+.fourth {
+    background: red;
+}
+
+.button {
+    width: 150px;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 7px;
+    font-family: system-ui;
+    display: block;
+    text-decoration: none;
+}
+
+.rounded-button {
+    border-radius: 5px;
+}
+
+img {
+    width: 200px;
+}
